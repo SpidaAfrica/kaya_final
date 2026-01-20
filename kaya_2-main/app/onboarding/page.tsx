@@ -20,7 +20,7 @@ export default function OnboardingPage() {
           </h1>
           <p className="text-darker text-center">
             Book, negotiate, pay, and track your parcel from anywhere. Our app
-            makes delivery as easy as it should be.
+            makes delivery as simple as possible.
           </p>
         </div>
         <Button className="w-full capitalize font-semibold mt-8">
