@@ -290,7 +290,7 @@ useEffect(() => {
             <div className="hidden lg:block bg-background w-96 h-full px-3 space-y-4">
               <Accordion type="single" collapsible>
                 <AccordionItem value="1" title="Media, Assets, Files">
-                  <AccordionTrigger>Media, assets, files (05)</AccordionTrigger>
+                  <AccordionTrigger>Media, assets, files (5)</AccordionTrigger>
                   <AccordionContent className="flex items-center py-4 px-2 gap-3 overflow-x-auto no-scrollbar">
                     {[0, 0, 0, 0, 0].map((_, i) => (
                       <div className="bg-gray-200 w-20 h-20 rounded-lg" key={i} />
